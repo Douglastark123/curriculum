@@ -1,0 +1,2 @@
+# curriculum
+A simple curriculum
