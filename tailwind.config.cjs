@@ -16,6 +16,10 @@ export default {
         zaffre: '#0d21a1',
         oxfordBlue: '#011638',
       },
+      screens: {
+        'mobile-sm': '340px',
+        'mobile-md': '500px',
+      },
     },
   },
   darkMode: 'class',
