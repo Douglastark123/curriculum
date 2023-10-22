@@ -3,8 +3,8 @@ import { About, Header, MyTabs } from './Components'
 
 function App(): React.JSX.Element {
   return (
-    <div className="flex h-full flex-col items-center bg-cardBlack font-mono text-antiFlashWhite mobile-md:py-5">
-      <div className="flex h-full w-full max-w-[820px] flex-col items-center gap-1 mobile-sm:gap-3 mobile-md:w-11/12 md:gap-5">
+    <div className="flex min-h-screen flex-col items-center bg-cardBlack font-mono text-antiFlashWhite mobile-md:py-5">
+      <div className="flex w-full max-w-[820px] flex-col items-center gap-1 mobile-sm:gap-3 mobile-md:w-11/12 md:gap-5">
         <Card
           isBlurred
           shadow="sm"
